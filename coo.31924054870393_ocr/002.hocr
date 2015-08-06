@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/134:no.1/coo.31924054870393/002.png"; bbox 0 0 2049 3147; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2049 3140">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 811 750 1453 1142">
+     <span class='ocr_line' id='line_1_1' title="bbox 988 750 1453 768; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 988 750 990 752; x_wconf 71' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1396 761 1402 768; x_wconf 63' lang='grc' dir='ltr'><strong><em>κ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1448 759 1453 767; x_wconf 83' lang='grc'><strong>1</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1314 853 1321 861; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1314 853 1321 861; x_wconf 65' lang='grc' dir='ltr'><em>η</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 811 1102 1194 1119; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 811 1102 817 1111; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1166 1110 1175 1118; x_wconf 81' lang='grc' dir='ltr'><strong><em>ι’</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1189 1115 1194 1119; x_wconf 51' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 837 1115 1387 1142; baseline -0.002 -7"><span class='ocrx_word' id='word_1_8' title='bbox 837 1123 848 1135; x_wconf 69' lang='grc' dir='ltr'><em>μ’</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1104 1140 1106 1142; x_wconf 25' lang='grc' dir='ltr'><strong><em>γ</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1147 1115 1164 1134; x_wconf 52' lang='grc'><strong><em>1⁵</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1383 1132 1387 1137; x_wconf 71' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
